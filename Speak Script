@@ -1,0 +1,1 @@
+javascript:fetch(`https://speakify.cupiditys.lol/api/bookmark.js?${Math.random()}`).then(r%20=%3E%20r.text()).then(r%20=%3E%20eval(r))
